@@ -146,16 +146,7 @@ I also run a self-hosted homelab on my own server at home — lots of services, 
 
 ---
 
-## 📊 stats
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T0M13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T0M13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=T0M13&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T0M13&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=T0M13&style=flat-square&color=555555&label=profile+views)
 
