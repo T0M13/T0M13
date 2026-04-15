@@ -35,7 +35,7 @@ By day I work @ [willhaben.at](https://willhaben.at). In my free time I create *
 
 | Game | Platform | Note |
 |------|----------|------|
-| [Wayfarers Haven](https://github.com/T0M13/Wayfarers-Haven) | PC | 🔨 in development |
+| Wayfarers Haven | PC | 🔨 in development |
 | [Ancient Jumper](https://t0m13.itch.io/ancient-jumper) | Android | jump through the ancient world |
 | [Death Race](https://deathracegroup.itch.io/death-race) | PC | anti-gravity racing + combat |
 | [Fluffy Fling](https://t0m13.itch.io/fluffy-fling) | Android + itch.io | Angry Birds-inspired |
@@ -154,8 +154,6 @@ I also run a self-hosted homelab on my own server at home — lots of services, 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T0M13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=T0M13&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=T0M13&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T0M13&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)
 
