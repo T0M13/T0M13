@@ -9,7 +9,7 @@
    ╚═╝    ╚═════╝ ╚═╝     ╚═╝ ╚═╝
 ```
 
-### indie · web · game · dev
+###  web · game · dev
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tamas--illes.com-111111?style=for-the-badge)](https://tamas-illes.com)
 [![Discord](https://img.shields.io/badge/Discord-T0M1%234444-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/ApzuHpG)
