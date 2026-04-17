@@ -23,7 +23,7 @@
 
 ## About Me
 
-Hi there! I'm **Ing. Tamas Illes, BSc.** — also known as Tomi, T0M1, T0M13, Tomilles.
+Hi there! I'm **Ing. Tamas Illes, BSc.** — also known as tomi, T0M1, T0M13, tomilles.
 
 I play and create games.
 
