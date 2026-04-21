@@ -148,7 +148,7 @@ I also run a self-hosted homelab on my own server at home — lots of services, 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=T0M13&style=flat-square&color=555555&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=T0M13&style=flat-square&color=555555&label=profile+views&abbreviated=true)
 
 </div>
 
