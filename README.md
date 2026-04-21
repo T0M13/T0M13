@@ -21,7 +21,9 @@
 
 ---
 
-## About Me
+## 🙋 About Me
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7AA2F7&center=false&vCenter=true&width=435&lines=Ing.+Tamas+Illes,+BSc.;tomi;Game+Developer;Web+Developer;All+Rounder;Building+Games%2C+Websites+%26+Tools;tomilles;Always+Creating)](https://git.io/typing-svg)
 
 Hi there! I'm **Ing. Tamas Illes, BSc.** — also known as tomi, T0M1, T0M13, tomilles.
 
@@ -30,8 +32,13 @@ I play and create games.
 By day I work @ [willhaben.at](https://willhaben.at). In my free time I create **games**, build **websites**, and ship **tools**.
 
 ---
+## 🎵 Currently Listening To
 
-## 🎮 games
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=herceg133&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+## 🎮 My Games
 
 | Game | Platform | Note |
 |------|----------|------|
@@ -46,7 +53,7 @@ By day I work @ [willhaben.at](https://willhaben.at). In my free time I create *
 
 ---
 
-## 🌐 web apps & tools
+## 🌐 Web Apps & Tools
 
 | App | Description |
 |-----|-------------|
@@ -56,7 +63,7 @@ By day I work @ [willhaben.at](https://willhaben.at). In my free time I create *
 
 ---
 
-## 🖥️ websites i've built
+## 🖥️ Websites I've Built
 
 | Website | Client |
 |---------|--------|
@@ -70,7 +77,7 @@ By day I work @ [willhaben.at](https://willhaben.at). In my free time I create *
 
 ---
 
-## 🧊 3d work (blender)
+## 🧊 3D Work
 
 | Project | Description |
 |---------|-------------|
@@ -79,7 +86,7 @@ By day I work @ [willhaben.at](https://willhaben.at). In my free time I create *
 
 ---
 
-## 🏠 homelab
+## 🏠 Homelab
 
 I also run a self-hosted homelab on my own server at home — lots of services, fully managed, always tinkering.
 
@@ -93,7 +100,15 @@ I also run a self-hosted homelab on my own server at home — lots of services, 
 
 ---
 
-## 📬 connect
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/T0M13/T0M13/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📬 Connect
 
 <div align="center">
 
@@ -107,7 +122,7 @@ I also run a self-hosted homelab on my own server at home — lots of services, 
 
 ---
 
-## 💻 stack
+## 💻 Stack
 
 **Game Dev**
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
@@ -143,6 +158,16 @@ I also run a self-hosted homelab on my own server at home — lots of services, 
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-111111?style=flat-square&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T0M13&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/T0M13)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=T0M13&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
