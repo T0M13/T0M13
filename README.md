@@ -100,14 +100,6 @@ I also run a self-hosted homelab on my own server at home — lots of services, 
 
 ---
 
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/T0M13/T0M13/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 📬 Connect
 
 <div align="center">
@@ -162,8 +154,6 @@ I also run a self-hosted homelab on my own server at home — lots of services, 
 ---
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T0M13&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/T0M13)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=T0M13&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
